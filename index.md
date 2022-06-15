@@ -10,7 +10,7 @@
         <!--- Basic Page Needs
    ================================================== -->
         <meta charset="utf-8">
-        <title>Woo - Free Responsive HTML5/CSS3 Template</title>
+        <title>Way goodway</title>
         <meta name="description" content="">
         <meta name="author" content="">
 
@@ -58,11 +58,11 @@
                 <a class="mobile-btn" href="#" title="Hide navigation">Hide Menu</a>
 
                 <ul id="nav" class="nav">
-                    <li><a class="smoothscroll" href="#features">Features</a></li>
-                    <li><a class="smoothscroll" href="#pricing">Pricing</a></li>
-                    <li><a class="smoothscroll" href="#screenshots">Screenshots</a></li>
-                    <li><a class="smoothscroll" href="#testimonials">Testimonials</a></li>
-                    <li><a class="smoothscroll" href="#subscribe">Subscribe</a></li>
+                    <li><a class="smoothscroll" href="#features">🉐学🉐</a></li>
+                    <li><a class="smoothscroll" href="#pricing">🈶用🈶</a></li>
+                    <li><a class="smoothscroll" href="#screenshots">🆔查🆔</a></li>
+                    <li><a class="smoothscroll" href="#testimonials">💎🈸💎</a></li>
+                    <li><a class="smoothscroll" href="#subscribe">⚙️💻⚙️</a></li>
                 </ul> <!-- end #nav -->
 
             </nav> <!-- end #nav-wrap -->
@@ -113,6 +113,123 @@
 
         </section> <!-- Homepage Hero end -->
 
+	    
+	    
+	    
+	    
+	            <!-- Pricing Section
+   ================================================== -->
+        <section id="pricing">
+
+            <div class="row section-head">
+                <h1>🆔查🆔</h1>
+                <p>服务器、IPPBX等</p>
+            </div>
+
+            <div class="row">
+                <div class="pricing-tables bgrid-quarters s-bgrid-halves">
+                    <div class="column">
+                        <div class="price-block">
+                            <h3 class="plan-title"><i class="fa fa-cog"></i>IPPBX</h3>
+                            <p class="plan-price">常用PBX <span>前10</span> </p>
+
+                            <ul class="features">
+                                <li> <a href="http://47.108.55.108/">XSwitch_1</a> </li>
+				<li> <a href="http://47.108.189.222/">XSwitch_2</a> </li>
+				<li> <a href="http://47.108.189.222/">XSwitch_3/a> </li>
+				<li> <a href="http://47.108.157.108/">FreePBX </a> </li>
+				<li> <a href="https://wuying.aliyun.com/HDXEngine.html?launchid=1655231908838#type=message&engineType=HTML5Engine/">VOS3000 💻 </a>  </li>
+				<li> <a href="http://47.109.33.215/">MAGNUS BILLING️️</a> </li>
+                            </ul>
+
+                            <footer class="plan-sign-up">
+                                <a class="button" href="">更多</a>
+                            </footer>
+
+                        </div> <!-- End Price Block -->
+
+                    </div> <!-- End Column -->
+
+                    <div class="column">
+
+                        <div class="price-block">
+                            <h3 class="plan-title"><i class="fa fa-thumbs-up"></i>SIP Trunks</h3>
+                            <p class="plan-price">SIP Trunks<span>前10</span></p>
+
+                            <ul class="features">
+                                <li>1.地址</li>
+                                <li>2.地址</li>
+                                <li>3.地址</li>
+                                <li>4.地址</li>
+                                <li>5.地址</li>
+                                <li>6.地址</li>
+                            </ul>
+
+                            <footer class="plan-sign-up">
+                                <a class="button" href="">汇总</a>
+                            </footer>
+
+                        </div> <!-- End Price Block -->
+
+                    </div> <!-- End Column -->
+
+                    <div class="column">
+
+                        <div class="price-block">
+
+                            <h3 class="plan-title"><i class="fa fa-star"></i>Premium</h3>
+                            <p class="plan-price">$19.99 <span>per month</span></p>
+
+                            <ul class="features">
+                                <li>10GB Storage</li>
+                                <li>25GB Bandwidth</li>
+                                <li>5 Domains</li>
+                                <li>10 Databases</li>
+                                <li>10 FTP Account</li>
+                                <li>50 Email Accounts</li>
+                            </ul>
+
+                            <footer class="plan-sign-up">
+                                <a class="button" href="">Sign Up</a>
+                            </footer>
+
+                        </div> <!-- End Price block -->
+
+                    </div> <!-- End Column -->
+
+                    <div class="column">
+
+                        <div class="price-block">
+
+                            <h3 class="plan-title"><i class="fa fa-trophy"></i>Ultimate</h3>
+                            <p class="plan-price">$29.99 <span>per month</span></p>
+
+                            <ul class="features">
+                                <li>30 Storage</li>
+                                <li>Unlimited Bandwidth</li>
+                                <li>10 Domains</li>
+                                <li>15 Databases</li>
+                                <li>10 FTP Account</li>
+                                <li>50 Email Accounts</li>
+                            </ul>
+
+                            <footer class="plan-sign-up">
+                                <a class="button" href="">Sign Up</a>
+                            </footer>
+
+                        </div> <!-- End Price Block -->
+
+                    </div> <!-- End Column -->
+
+                </div>
+
+            </div>
+
+        </section> <!-- Pricing End -->
+
+	    
+	    
+	    
 
         <!-- Features Section
    ================================================== -->
@@ -124,7 +241,7 @@
                         <h3>SIP PBX</h3>
                     		<p> XSwitch <a href="http://47.108.55.108/">1⃣️</a> <a href="http://47.108.189.222/">2⃣️</a> <a href="http://47.108.189.222/">3⃣️</a></p>
                     		<p> FreePBX <a href="http://47.108.157.108/">✳️️</a> <a href="https://aliyun.com/">☁️️️</a> </p>
-                            <p> VOS3000 <a href="https://wuying.aliyun.com/HDXEngine.html?launchid=1655231908838#type=message&engineType=HTML5Engine/">💻 </a> <a href="https://aliyun.com/">☁️️️</a> </p>
+                            	<p> VOS3000 <a href="https://wuying.aliyun.com/HDXEngine.html?launchid=1655231908838#type=message&engineType=HTML5Engine/">💻 </a> <a href="https://aliyun.com/">☁️️️</a> </p>
                             <p> OtherPBX <a href="http://47.109.33.215/">MAGNUS BILLING️️</a> <a href="https://aliyun.com/">☁️️️</a> </p>
                     <p>0⃣️或✳️等为Web面板,☁️为服务器登陆.🈚️最好,🈶️更好!完善中...</p>
                 </div>
@@ -192,6 +309,9 @@
 
         </section> <!-- Homepage Hero end -->
 
+	    
+	    
+	    
 
         <!-- Pricing Section
    ================================================== -->
@@ -310,6 +430,11 @@
             </div>
 
         </section> <!-- Pricing End -->
+	    
+	    
+	    
+	    
+	    
 
         <!-- Call-To-Action Section
    ================================================== -->

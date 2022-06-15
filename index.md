@@ -97,7 +97,7 @@
                     </div>
 
                     <div class="buttons">
-                        <a class="button trial" href="#"> 本地浏览 </a>
+                        <a class="button trial" href="#"> MD </a>
                         <a class="button learn-more smoothscroll" href="#features">any More</a>
                     </div>
                     

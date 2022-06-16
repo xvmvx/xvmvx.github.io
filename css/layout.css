@@ -228,7 +228,7 @@ ul#nav li.current a { color: #fff; }
 }
 #hero .buttons .trial {
    background: #f64b39;
-   margin-right: 30px;
+   margin-right: 3px;
 
    -webkit-animation-delay: 10s;
       -moz-animation-delay: 10s;
